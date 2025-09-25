@@ -44,4 +44,6 @@ Follow these steps to set up the project locally:
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License.
+Copyright (c) 2025 Manoj kandregula
+
+
